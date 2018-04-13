@@ -49,6 +49,9 @@ public class WidgetID
 	public static final int RESIZABLE_VIEWPORT_BOTTOM_LINE_GROUP_ID = 164;
 	public static final int PRAYER_GROUP_ID = 541;
 	public static final int QUICK_PRAYERS_GROUP_ID = 77;
+	public static final int MAGIC_NORMAL_GROUP_ID = 218;
+	public static final int MAGIC_ANCIENT_GROUP_ID = 218;
+	public static final int MAGIC_LUNAR_GROUP_ID = 218;
 	public static final int SHOP_GROUP_ID = 300;
 	public static final int SHOP_INVENTORY_GROUP_ID = 301;
 	public static final int GUIDE_PRICES_GROUP_ID = 464;
@@ -299,6 +302,34 @@ public class WidgetID
 		public static final int PIETY_CHILD_ID = 26;
 		public static final int RIGOUR_CHILD_ID = 24;
 		public static final int AUGURY_CHILD_ID = 27;
+	}
+	
+	static class NormalSpells
+	{
+		static final int HOME_TELEPORT = 1;
+		static final int WIND_STRIKE = 2;
+		static final int CONFUSE = 3;
+		static final int ENCHANT_BOLT = 4;
+		static final int WATER_STRIKE = 5;
+		static final int LVL1_ENCHANT = 6;
+		static final int EARTH_STRIKE = 7;
+		static final int WEAKEN = 8;
+		static final int FIRE_STRIKE = 9;
+		static final int BONES_BANANAS = 10;
+		static final int WIND_BOLT = 11;
+		static final int CURSE = 12;
+		static final int BIND = 13;
+		static final int LOW_ALCHEMY = 14;
+	}
+
+	static class AncientSpells
+	{
+		
+	}
+
+	static class LunarSpells
+	{
+		
 	}
 
 	static class Combat
