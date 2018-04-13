@@ -214,18 +214,21 @@ public class WidgetID
 	{
 		static final int INVENTORY_TAB = 51;
 		static final int PRAYER_TAB = 53;
+		static final int MAGIC_TAB = 54;
 	}
 
 	static class ResizableViewport
 	{
 		static final int INVENTORY_TAB = 54;
 		static final int PRAYER_TAB = 56;
+		static final int MAGIC_TAB = 57;
 	}
 
 	static class ResizableViewportBottomLine
 	{
 		static final int INVENTORY_TAB = 51;
 		static final int PRAYER_TAB = 53;
+		static final int MAGIC_TAB = 54;
 	}
 
 	static class Chatbox
@@ -320,6 +323,62 @@ public class WidgetID
 		static final int CURSE = 12;
 		static final int BIND = 13;
 		static final int LOW_ALCHEMY = 14;
+		static final int WATER_BOLT = 15;
+		static final int VARROCK_TELEPORT = 16;
+		static final int LVL2_ENCHANT = 17;
+		static final int EARTH_BOLT = 18;
+		static final int LUMBRIDGE_TELEPORT = 19;
+		static final int TELEKINETIC_GRAB = 20;
+		static final int FIRE_BOLT = 21;
+		static final int FALADOR_TELEPORT = 22;
+		static final int CRUMBLE_UNDEAD = 23;
+		static final int HOUSE_TELEPORT = 24;
+		static final int WIND_BLAST = 25;
+		static final int SUPERHEAT_ITEM = 26;
+		static final int CAMELOT_TELEPORT = 27;
+		static final int WATER_BLAST = 28;
+		static final int LVL3_ENCHANT = 29;
+		static final int IBAN_BLAST = 30;
+		static final int SNARE = 31;
+		static final int MAGIC_DART = 32;
+		static final int ARDOUGNE_TELEPORT = 33;
+		static final int EARTH_BLAST = 34;
+		static final int HIGH_ALCHEMY = 35;
+		static final int CHARGE_WATER_ORB = 36;
+		static final int LVL4_ENCHANT = 37;
+		static final int WATCHTOWER_TELEPORT = 38;
+		static final int FIRE_BLAST = 39;
+		static final int CHARGE_EARTH_ORB = 40;
+		static final int BONES_PEACHES = 41;
+		static final int GUTHIX_CLAWS = 42;
+		static final int SARADOMIN_STRIKE = 43;
+		static final int ZAMORAK_FLAMES = 44;
+		static final int TROLLHEIM_TELEPORT = 45;
+		static final int WIND_WAVE = 46;
+		static final int CHARGE_FIRE_ORB = 47;
+		static final int APE_ATOLL_TELEPORT = 48;
+		static final int WATER_WAVE = 49;
+		static final int CHARGE_AIR_ORB = 50;
+		static final int VULNERABILITY = 51;
+		static final int LVL5_ENCHANT = 52;
+		static final int KOUREND_TELEPORT = 53;
+		static final int EARTH_WAVE = 54;
+		static final int ENFEEBLE = 55;
+		static final int TELEOTHER_LUMBRIDGE = 56;
+		static final int FIRE_WAVE = 57;
+		static final int ENTANGLE = 58;
+		static final int STUN = 59;
+		static final int CHARGE = 60;
+		static final int WIND_SURGE = 61;
+		static final int TELEOTHER_FALADOR = 62;
+		static final int WATER_SURGE = 63;
+		static final int TELE_BLOCK = 64;
+		static final int BOUNTY_HUNTER_TELEPORT = 65;
+		static final int LVL6_ENCHANT = 66;
+		static final int TELEOTHER_CAMELOT = 67;
+		static final int EARTH_SURGE = 68;
+		static final int LVL7_ENCHANT = 69;
+		static final int FIRE_SURGE = 70;
 	}
 
 	static class AncientSpells
